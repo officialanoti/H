@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blessed</string>
+    <string name="name">RAYMOND BLESSED</string>
+    <string name="send_mail">Send me a mail</string>
+    <string name="text">Hi!, I am a young Lagosian with an interest in tech especially programming.</string>
+    <string name="any">Wanna say hi / ask a question?</string>
+    <string name="slack_officialanoti">Slack: @officialanoti</string>
+    <string name="github_officialanoti">Github: @officialanoti</string>
+</resources>
